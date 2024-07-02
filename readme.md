@@ -20,7 +20,7 @@ A simple Todo application built with React.js, Tailwind CSS, and Redux Toolkit, 
 
 ## Demonstration
 
-[Watch the video](./videos/demo.mp4)
+[Watch the video](https://res.cloudinary.com/dnidoasqe/video/upload/f_auto:video,q_auto/v1/assessments/ie8xtv7j7vt5mrdmmlge)
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Clone the repository and install dependencies.
 
 
-git clone https://github.com/your/repository.git
+git clone https://github.com/Krutheesh/Todo-Assessment
 cd todo-app
 npm install
 
