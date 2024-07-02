@@ -1,6 +1,3 @@
-Creating a comprehensive `README.md` file for your Todo application in React.js with Tailwind CSS, Redux Toolkit, and local storage involves providing clear instructions, dependencies, setup steps, and usage guidelines. Below is an example of what your `README.md` could look like:
-
----
 
 # Todo Application
 
@@ -20,6 +17,10 @@ A simple Todo application built with React.js, Tailwind CSS, and Redux Toolkit, 
 - React.js
 - Tailwind CSS
 - Redux Toolkit
+
+## Demonstration
+
+[Watch the video](./videos/demo.mp4)
 
 ## Getting Started
 
